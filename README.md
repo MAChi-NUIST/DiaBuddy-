@@ -1,16 +1,15 @@
-# DiaBuddy-
-# T1D Parent Connect
+# DiaBuddy
 
 ## A Support Platform for Parents of Children with Type 1 Diabetes
 
-![T1D Parent Connect](https://api.placeholder.com/600/300)
+![DiaBuddy](https://api.placeholder.com/600/300)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## 🌟 Vision
 
-**T1D Parent Connect** aims to empower parents of children with Type 1 Diabetes by combining practical management tools with emotional support and community resources. We believe that supporting the caregivers is crucial to improving outcomes for children living with T1D.
+**DiaBuddy** aims to empower parents of children with Type 1 Diabetes by combining practical management tools with emotional support and community resources. We believe that supporting the caregivers is crucial to improving outcomes for children living with T1D.
 
 ## 🔍 The Problem
 
